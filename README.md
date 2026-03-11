@@ -1,0 +1,1 @@
+# Listas-de-Exerc-cio-1-Pausas-Exerc-cios
