@@ -45,6 +45,6 @@ $alunos = [
     <?php endforeach; ?>
   </tbody>
 </table>
-
+    
 </body>
 </html>
